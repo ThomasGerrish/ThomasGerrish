@@ -24,8 +24,7 @@ Collaboration: Keen to collaborate on game development projects, learn from indu
 
 📫 How to Reach Me
 Email: thomasgerrishdev@gmail.com
-
-X: https://twitter.com/TomLogic_ 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TomLogic_)  
 
 ✨ Fun Fact
 When I'm not in the gym maxing my physique skill, I'm usually replaying Fable or Terraria. 
@@ -36,7 +35,7 @@ Skills: C, C#, C++, and HTML
 - 🌱 I’m currently learning Unity + Unreal Engine. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThomasGerrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TomLogic_)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThomasGerrish)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasGerrish)](https://github.com/anuraghazra/github-readme-stats)
 
