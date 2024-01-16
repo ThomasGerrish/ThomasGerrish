@@ -3,6 +3,7 @@
 ![Technology and Developing](https://pbs.twimg.com/profile_banners/1747368696492838913/1705440775/600x200)
 
 🎓 About Me
+
 University: I'm currently a 2nd year student at Anglia Ruskin University, Cambridge.
 
 Field of Study: Passionately diving into the world of Game Technology.
