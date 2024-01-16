@@ -24,7 +24,7 @@ Collaboration: Keen to collaborate on game development projects, learn from indu
 
 📫 How to Reach Me
 Email: thomasgerrishdev@gmail.com
-Twitter/X: https://twitter.com/TomLogic_.
+[Twitter Profile ](https://twitter.com/TomLogic_)
 
 ✨ Fun Fact
 When I'm not in the gym maxing my physique skill, I'm usually replaying Fable or Terraria. 
