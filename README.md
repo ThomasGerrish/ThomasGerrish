@@ -1,4 +1,4 @@
-### Hi there 👋, Thomas Gerrish
+
 #### Technology and Developing
 ![Technology and Developing](https://pbs.twimg.com/profile_banners/1747368696492838913/1705440775/600x200)
 
