@@ -12,6 +12,7 @@ Interests: My journey with games began with the NES, sparking a lifelong fascina
 
 💻 Technical Skills
 Languages: Proficient in C, C#, C++, and HTML.
+
 Game Development: Focused on game design and development, with a keen interest in both the technical and creative aspects of the gaming world. Experience in Unreal and Unity. 
 
 Projects:  Collaborative Doodle Space Invaders. Gabes Drunk Night Out, Shooting Range 
@@ -23,6 +24,7 @@ Collaboration: Keen to collaborate on game development projects, learn from indu
 
 📫 How to Reach Me
 Email: thomasgerrishdev@gmail.com
+
 X: https://twitter.com/TomLogic_
 
 ✨ Fun Fact
