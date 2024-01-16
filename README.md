@@ -6,7 +6,7 @@
 
 University: I'm currently a 2nd year student at Anglia Ruskin University, Cambridge.
 
-Field of Study: Passionately diving into the world of Game Technology.
+Field of Study: Passionately diving into the world of Game Development.
 
 Interests: My journey with games began with the NES, sparking a lifelong fascination. Since then, I've transitioned from an avid gamer to a budding game developer, creating simple yet engaging games throughout my school years.
 
