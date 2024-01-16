@@ -24,6 +24,7 @@ Collaboration: Keen to collaborate on game development projects, learn from indu
 
 📫 How to Reach Me
 Email: thomasgerrishdev@gmail.com
+
 [Twitter Profile ](https://twitter.com/TomLogic_)
 
 ✨ Fun Fact
